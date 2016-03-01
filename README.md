@@ -1,4 +1,4 @@
-se-class
+se-class//sarah-hoter
 ========
 
 Repository for JCE software engineering course materials
